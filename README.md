@@ -6,15 +6,5 @@ Specifically for PRECIP/TAHOPE field campaign (http://precip.org/), the notebook
 
 The notebook is mainly modified from Dr. Rosimar Rios-Berrios's (NCAR) original notebook.
 
-Last update - 20210809 - Hungjui Yu
+Last update - 20210810 - Hungjui Yu
 
-## Dependencies
-
-
-## How to run?
-
-```
-
-```
-
-The scripit is supported by python3.
