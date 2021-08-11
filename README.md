@@ -10,6 +10,6 @@ Last update - 20210810 - Hungjui Yu
 
 ## Example Figure:
 
-!![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Example Figure](https://github.com/yuhungjui/PRECIP_Radar_Scan_TW/blob/main/PRECIP_2022_CWB%2BSPOL_with200kmring_and_azimuths.png)
 
 
