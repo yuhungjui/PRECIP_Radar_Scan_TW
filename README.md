@@ -8,3 +8,8 @@ The notebook is mainly modified from Dr. Rosimar Rios-Berrios's (NCAR) original 
 
 Last update - 20210810 - Hungjui Yu
 
+## Example Figure:
+
+!![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
