@@ -1,6 +1,6 @@
 # PRECIP Radar Scan (TW)
 
-**The user-define version of the notebook has been transported to [PRECIP official GitHub](https://github.com/precip2022/PRECIP_radarscans). Further edits and updates will be made for PRECIP purposes.**
+<em><strong>The user-define version of the notebook has been transported to [PRECIP official GitHub](https://github.com/precip2022/PRECIP_radarscans). Further edits and updates will be made for PRECIP purposes.</strong></em>
 
 This project visualizes the radar scanning strategy in the [PRECIP 2022](http://precip.org/) campaign for field oprators.
 
